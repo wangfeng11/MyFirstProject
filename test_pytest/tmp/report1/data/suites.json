@@ -1,0 +1,78 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test_pytest_allure_feature_story",
+    "children" : [ {
+      "name" : "TestLogin",
+      "children" : [ {
+        "name" : "test_login_success",
+        "uid" : "db2ab5d40b4f2af5",
+        "parentUid" : "a69f06ec37eb30e4d45dda9cd8fc2feb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1627298750754,
+          "stop" : 1627298750755,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login_failed",
+        "uid" : "f0ecb06e9b310a6",
+        "parentUid" : "a69f06ec37eb30e4d45dda9cd8fc2feb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1627298750759,
+          "stop" : 1627298750759,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login_failed_a",
+        "uid" : "f08aadb38881bc1e",
+        "parentUid" : "a69f06ec37eb30e4d45dda9cd8fc2feb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1627298750763,
+          "stop" : 1627298750764,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login_failed_b",
+        "uid" : "92c29f693055dfdc",
+        "parentUid" : "a69f06ec37eb30e4d45dda9cd8fc2feb",
+        "status" : "failed",
+        "time" : {
+          "start" : 1627298750768,
+          "stop" : 1627298750769,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login_failed_c",
+        "uid" : "b4ca83ae91f08f5e",
+        "parentUid" : "a69f06ec37eb30e4d45dda9cd8fc2feb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1627298750792,
+          "stop" : 1627298750793,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a69f06ec37eb30e4d45dda9cd8fc2feb"
+    } ],
+    "uid" : "102535b21c0e8f9f1e6b311f33815c97"
+  } ]
+}
